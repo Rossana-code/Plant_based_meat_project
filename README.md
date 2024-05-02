@@ -5,4 +5,17 @@ https://public.tableau.com/app/profile/rossana.coro/viz/VegetalMeatProject/Accue
 
 Table description:
 
+Main table : 
+Meat production / consumption per continents / economic zones
++ Water_liters_for_meat_prod_per_kilos
+=> Sources : OECD + Source of institution of mechanical engineer
 
+Secondary tables : 
+Water stress
+=> Source : WRI - World Research Institute
+
+Global population growth
+=> Source : U.N (population.un.org)
+
+Vegetarian people per country
+=> Source : World Population Review
