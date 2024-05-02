@@ -1,0 +1,20 @@
+,Population_2023,Country,Location_code,Continent,sub_continent,Rank,vegetarianism_percentage,Vegetarian_population
+0,1428627663,India,IND,Asia,"Southern Asia, South Central Asia",1,24.0,419000000
+1,1425671352,China,CHN,Asia,Eastern Asia,2,5.0,50000000
+2,339996563,United States,USA,North America,Northern America,3,5.0,16000000
+3,216422446,Brazil,BRA,South America,"South America, Latin America",7,14.0,29260000
+4,144444359,Russia,RUS,Europe,Eastern Europe,9,1.0,1400000
+5,128455567,Mexico,MEX,North America,"Central America, Latin America",10,19.0,23427000
+6,123294513,Japan,JPN,Asia,Eastern Asia,12,9.0,11160000
+7,117337368,Philippines,PHL,Asia,South-Eastern Asia,13,5.0,5000000
+8,98858950,Vietnam,VNM,Asia,South-Eastern Asia,16,10.0,9000000
+10,71801279,Thailand,THA,Asia,South-Eastern Asia,20,3.3,2300000
+13,51784059,South Korea,KOR,Asia,Eastern Asia,29,3.0,1500000
+15,45773884,Argentina,ARG,South America,"South America, Latin America",33,12.0,540000
+17,38781291,Canada,CAN,North America,Northern America,38,7.0,2888000
+18,36744634,Ukraine,UKR,Europe,Eastern Europe,41,5.2,2000000
+20,19629590,Chile,CHL,South America,"South America, Latin America",65,6.0,1500000
+27,9174520,Israel,ISR,Asia,"Western Asia, The Middle East",98,13.0,1046000
+28,8796669,Switzerland,CHE,Europe,Western Europe,101,5.0,425000
+32,5474360,Norway,NOR,Europe,Northern Europe,119,9.0,485000
+33,5228100,New Zealand,NZL,Oceania,Australia and New Zealand,123,10.0,500000
